@@ -8,6 +8,6 @@ public class RestController {
 
     @GetMapping()
     public String test(){
-       return "tEST";
+       return "Test";
     }
 }
